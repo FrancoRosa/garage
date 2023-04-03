@@ -1,9 +1,10 @@
-# Vending
+# Garage
 
-> Simplest vending machine to pour water
+> Garage control based on linear actuators
 
 ## Hardware
 
-- 1x Valve
-- 1x Coin Selector
-- 1x Flow meter
+- 2x Linear actuators
+- 4x Electro magnetic locks
+- 4x Proximity sensors
+- 1x Bluetooth
